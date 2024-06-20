@@ -30,10 +30,10 @@ A simple puzzle game made with `UE 5.5` that uses the built-in [RazerChromaDevic
 
 ![image_6](images/image_6.png)
 
-**Helper function: Play Chroma Animations using an array of animations**
+**Helper function: `Play Chroma Animations` using an array of animations**
 
 ![image_8](images/image_8.png)
 
-**Helper function: Set idle animations using an array of Chroma animations**
+**Helper function: `Set Idle Animations` using an array of Chroma animations**
 
 ![image_9](images/image_9.png)
