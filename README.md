@@ -8,6 +8,14 @@ A simple puzzle game made with `UE 5.5` that uses the built-in [RazerChromaDevic
 
 ![image_1](images/image_1.png)
 
+**Project settings**
+
+![image_10](images/image_10.png)
+
+**AppInfo shows in the `Chroma App`**
+
+![image_11](images/image_11.png)
+
 **Chroma animation assets**
 
 ![image_7](images/image_7.png)
