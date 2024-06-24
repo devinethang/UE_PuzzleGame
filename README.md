@@ -12,7 +12,7 @@ A simple puzzle game made with `UE 5.5` that uses the built-in [RazerChromaDevic
 
 ![image_10](images/image_10.png)
 
-**AppInfo shows in the `Chroma App`**
+**AppInfo displays in `Synapse`**
 
 ![image_11](images/image_11.png)
 
