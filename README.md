@@ -20,34 +20,18 @@ A simple puzzle game made with `UE 5.5` that uses the built-in [RazerChromaDevic
 
 ![image_12](images/image_12.png)
 
-**Chroma animation assets**
-
-![image_7](images/image_7.png)
-
-**Create variable arrays of Chroma assets**
+**Initialization sets idle animation with external Chroma**
 
 ![image_2](images/image_2.png)
 
-**Trigger zones change the idle animations**
+**Trigger zones change the idle animations through external Chroma**
 
 ![image_3](images/image_3.png)
 
-**Keyboard input triggers Chroma animations**
+**Keyboard input triggers external Chroma animations**
 
 ![image_4](images/image_4.png)
 
 **Win and loss triggers**
 
 ![image_5](images/image_5.png)
-
-**Uninitialization**
-
-![image_6](images/image_6.png)
-
-**Helper function: `Play Chroma Animations` using an array of animations**
-
-![image_8](images/image_8.png)
-
-**Helper function: `Set Idle Animations` using an array of Chroma animations**
-
-![image_9](images/image_9.png)
