@@ -20,10 +20,6 @@ A simple puzzle game made with `UE 5.5` that uses the built-in [RazerChromaDevic
 
 ![image_12](images/image_12.png)
 
-**Initialization sets idle animation with external Chroma**
-
-![image_2](images/image_2.png)
-
 **Trigger zones change the idle animations through external Chroma**
 
 ![image_3](images/image_3.png)
